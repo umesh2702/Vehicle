@@ -1,0 +1,102 @@
+Code,Meaning,Possible Causes,Fix Suggestion,Urgency
+P0100,Ignition Timing Advance Malfunction,"Vacuum leak, fuel system fault",Recalibrate system,High
+P0101,Coolant Temperature Sensor Malfunction,"Electrical short, connector corrosion",Check wiring and connectors,High
+P0102,Battery Voltage Too High,"Electrical short, connector corrosion",Clean or replace filter,High
+P0103,Crankshaft Position Sensor Malfunction,"Sensor fault, wiring issue",Recalibrate system,Low
+P0104,Coolant Temperature Sensor Malfunction,"Sensor fault, wiring issue",Replace worn-out part,Low
+P0105,Coolant Temperature Sensor Malfunction,"Vacuum leak, fuel system fault",Clean or replace filter,Medium
+P0106,ABS System Malfunction,"Mechanical wear, dirty filter",Replace worn-out part,Low
+P0107,Airbag Deployment Circuit Malfunction,"Calibration error, software fault",Recalibrate system,Low
+P0108,Coolant Temperature Sensor Malfunction,"Sensor fault, wiring issue",Check wiring and connectors,Medium
+P0109,Coolant Temperature Sensor Malfunction,"Sensor fault, wiring issue",Clean or replace filter,High
+P0110,Fuel System Too Rich,"Electrical short, connector corrosion",Replace worn-out part,Low
+P0111,EGR Flow Malfunction,"Sensor fault, wiring issue",Clean or replace filter,Low
+P0112,Ignition Timing Advance Malfunction,"Vacuum leak, fuel system fault",Replace faulty sensor,High
+P0113,Turbocharger Overboost,"Electrical short, connector corrosion",Recalibrate system,Medium
+P0114,Battery Voltage Too Low,"Vacuum leak, fuel system fault",Replace worn-out part,Low
+P0115,Fuel Pump Malfunction,"Mechanical wear, dirty filter",Check wiring and connectors,Low
+P0116,Throttle Position Sensor Malfunction,"Vacuum leak, fuel system fault",Replace worn-out part,Medium
+P0117,Turbocharger Underboost,"Sensor fault, wiring issue",Recalibrate system,Medium
+P0118,Battery Voltage Too Low,"Calibration error, software fault",Recalibrate system,Medium
+P0119,Crankshaft Position Sensor Malfunction,"Vacuum leak, fuel system fault",Replace faulty sensor,High
+P0120,Fuel Injector Circuit Open,"Electrical short, connector corrosion",Replace worn-out part,Medium
+P0121,Knock Sensor Circuit High Input,"Mechanical wear, dirty filter",Replace faulty sensor,High
+P0122,Fuel Injector Circuit Open,"Sensor fault, wiring issue",Replace faulty sensor,High
+P0123,ABS System Malfunction,"Electrical short, connector corrosion",Recalibrate system,Low
+P0124,Knock Sensor Circuit High Input,"Sensor fault, wiring issue",Clean or replace filter,Medium
+P0125,Fuel Injector Circuit Open,"Sensor fault, wiring issue",Check wiring and connectors,Medium
+P0126,Alternator Undercharging,"Sensor fault, wiring issue",Replace worn-out part,High
+P0127,Oxygen Sensor Circuit Malfunction,"Mechanical wear, dirty filter",Recalibrate system,Low
+P0128,ABS System Malfunction,"Calibration error, software fault",Recalibrate system,Medium
+P0129,Fuel Pump Malfunction,"Calibration error, software fault",Recalibrate system,High
+P0130,Throttle Position Sensor Malfunction,"Vacuum leak, fuel system fault",Check wiring and connectors,Low
+P0131,Turbocharger Underboost,"Electrical short, connector corrosion",Check wiring and connectors,Low
+P0132,Battery Voltage Too Low,"Calibration error, software fault",Recalibrate system,High
+P0133,Coolant Temperature Sensor Malfunction,"Electrical short, connector corrosion",Clean or replace filter,Low
+P0134,Coolant Temperature Sensor Malfunction,"Mechanical wear, dirty filter",Recalibrate system,Medium
+P0135,Crankshaft Position Sensor Malfunction,"Electrical short, connector corrosion",Recalibrate system,Medium
+P0136,Alternator Undercharging,"Electrical short, connector corrosion",Clean or replace filter,Low
+P0137,Throttle Position Sensor Malfunction,"Sensor fault, wiring issue",Replace worn-out part,Medium
+P0138,Airbag Deployment Circuit Malfunction,"Electrical short, connector corrosion",Replace faulty sensor,Medium
+P0139,Oxygen Sensor Circuit Malfunction,"Mechanical wear, dirty filter",Replace faulty sensor,High
+P0140,Knock Sensor Circuit High Input,"Mechanical wear, dirty filter",Clean or replace filter,Low
+P0141,Battery Voltage Too High,"Electrical short, connector corrosion",Replace worn-out part,Medium
+P0142,EGR Flow Malfunction,"Electrical short, connector corrosion",Clean or replace filter,Medium
+P0143,Turbocharger Underboost,"Mechanical wear, dirty filter",Replace faulty sensor,Medium
+P0144,Camshaft Position Sensor Malfunction,"Electrical short, connector corrosion",Clean or replace filter,Medium
+P0145,Mass Airflow Sensor Malfunction,"Electrical short, connector corrosion",Clean or replace filter,Medium
+P0146,Fuel Pump Malfunction,"Electrical short, connector corrosion",Recalibrate system,High
+P0147,Crankshaft Position Sensor Malfunction,"Vacuum leak, fuel system fault",Recalibrate system,Low
+P0148,Crankshaft Position Sensor Malfunction,"Electrical short, connector corrosion",Replace faulty sensor,High
+P0149,Turbocharger Overboost,"Electrical short, connector corrosion",Replace faulty sensor,Medium
+P0150,Transmission Fluid Temperature High,"Sensor fault, wiring issue",Recalibrate system,Low
+P0151,ABS System Malfunction,"Mechanical wear, dirty filter",Replace faulty sensor,Low
+P0152,Alternator Overcharging,"Vacuum leak, fuel system fault",Clean or replace filter,Medium
+P0153,Mass Airflow Sensor Malfunction,"Mechanical wear, dirty filter",Check wiring and connectors,Low
+P0154,Exhaust Temperature Sensor Malfunction,"Sensor fault, wiring issue",Replace worn-out part,Low
+P0155,Battery Voltage Too Low,"Electrical short, connector corrosion",Recalibrate system,Medium
+P0156,Fuel System Too Rich,"Calibration error, software fault",Clean or replace filter,High
+P0157,Turbocharger Overboost,"Mechanical wear, dirty filter",Recalibrate system,High
+P0158,Glow Plug Malfunction,"Sensor fault, wiring issue",Replace worn-out part,High
+P0159,Steering Angle Sensor Malfunction,"Mechanical wear, dirty filter",Recalibrate system,Low
+P0160,Fuel Pump Malfunction,"Sensor fault, wiring issue",Recalibrate system,Medium
+P0161,Ignition Timing Advance Malfunction,"Vacuum leak, fuel system fault",Recalibrate system,Low
+P0162,Camshaft Position Sensor Malfunction,"Electrical short, connector corrosion",Check wiring and connectors,Low
+P0163,Oxygen Sensor Circuit Malfunction,"Sensor fault, wiring issue",Replace worn-out part,Low
+P0164,Steering Angle Sensor Malfunction,"Calibration error, software fault",Check wiring and connectors,High
+P0165,Camshaft Position Sensor Malfunction,"Vacuum leak, fuel system fault",Check wiring and connectors,Medium
+P0166,Mass Airflow Sensor Malfunction,"Electrical short, connector corrosion",Replace faulty sensor,High
+P0167,Transmission Fluid Temperature High,"Vacuum leak, fuel system fault",Replace worn-out part,Medium
+P0168,Fuel Pump Malfunction,"Mechanical wear, dirty filter",Clean or replace filter,High
+P0169,Knock Sensor Circuit High Input,"Vacuum leak, fuel system fault",Recalibrate system,Low
+P0170,Steering Angle Sensor Malfunction,"Vacuum leak, fuel system fault",Check wiring and connectors,High
+P0171,Alternator Overcharging,"Sensor fault, wiring issue",Clean or replace filter,Medium
+P0172,Oxygen Sensor Circuit Malfunction,"Vacuum leak, fuel system fault",Recalibrate system,Medium
+P0173,Throttle Position Sensor Malfunction,"Mechanical wear, dirty filter",Clean or replace filter,High
+P0174,Battery Voltage Too Low,"Calibration error, software fault",Recalibrate system,High
+P0175,Steering Angle Sensor Malfunction,"Calibration error, software fault",Clean or replace filter,High
+P0176,Alternator Undercharging,"Calibration error, software fault",Check wiring and connectors,High
+P0177,Turbocharger Underboost,"Vacuum leak, fuel system fault",Clean or replace filter,Medium
+P0178,Mass Airflow Sensor Malfunction,"Calibration error, software fault",Replace faulty sensor,High
+P0179,Knock Sensor Circuit High Input,"Sensor fault, wiring issue",Check wiring and connectors,Low
+P0180,Knock Sensor Circuit High Input,"Sensor fault, wiring issue",Check wiring and connectors,Low
+P0181,Turbocharger Underboost,"Electrical short, connector corrosion",Replace worn-out part,Medium
+P0182,Exhaust Temperature Sensor Malfunction,"Mechanical wear, dirty filter",Clean or replace filter,Medium
+P0183,ABS System Malfunction,"Electrical short, connector corrosion",Replace faulty sensor,High
+P0184,Turbocharger Overboost,"Calibration error, software fault",Recalibrate system,High
+P0185,Alternator Overcharging,"Calibration error, software fault",Replace worn-out part,High
+P0186,Glow Plug Malfunction,"Vacuum leak, fuel system fault",Recalibrate system,Low
+P0187,Crankshaft Position Sensor Malfunction,"Sensor fault, wiring issue",Replace worn-out part,Medium
+P0188,Camshaft Position Sensor Malfunction,"Calibration error, software fault",Check wiring and connectors,Low
+P0189,EGR Flow Malfunction,"Mechanical wear, dirty filter",Clean or replace filter,Medium
+P0190,Knock Sensor Circuit High Input,"Vacuum leak, fuel system fault",Clean or replace filter,High
+P0191,Exhaust Temperature Sensor Malfunction,"Vacuum leak, fuel system fault",Replace worn-out part,High
+P0192,Turbocharger Underboost,"Mechanical wear, dirty filter",Clean or replace filter,High
+P0193,Fuel System Too Rich,"Electrical short, connector corrosion",Check wiring and connectors,Medium
+P0194,Throttle Position Sensor Malfunction,"Mechanical wear, dirty filter",Clean or replace filter,High
+P0195,Turbocharger Overboost,"Calibration error, software fault",Recalibrate system,Medium
+P0196,Battery Voltage Too High,"Calibration error, software fault",Replace faulty sensor,Medium
+P0197,Camshaft Position Sensor Malfunction,"Electrical short, connector corrosion",Replace worn-out part,Medium
+P0198,Crankshaft Position Sensor Malfunction,"Vacuum leak, fuel system fault",Recalibrate system,Medium
+P0199,Transmission Fluid Temperature High,"Vacuum leak, fuel system fault",Replace worn-out part,Low
+P0420,Catalyst System Efficiency Below Threshold,Faulty catalytic converter or oxygen sensor,Replace catalytic converter or O2 sensor,Medium
