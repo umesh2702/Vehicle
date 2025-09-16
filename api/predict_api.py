@@ -4,8 +4,8 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from dotenv import load_dotenv
 import cohere
-from .models import predict_vehicle_health
-from .dtc_lookup import DTCLookup
+from src.models import predict_vehicle_health
+from src.dtc_lookup import DTCLookup
 
 # Load environment variables
 load_dotenv()
