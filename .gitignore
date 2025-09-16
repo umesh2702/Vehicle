@@ -7,12 +7,12 @@ env/
 venv/
 *.env
 
-# Data
-data/
-*.pkl
-*.csv
+
 
 # IDEs
 .vscode/
 .idea/
 .vercel
+ 
+ .vercel.json
+ .procfile
